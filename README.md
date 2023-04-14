@@ -1,5 +1,6 @@
 # Color-Detection-codeclause
 An interactive app to detect the colors on double click.
+
 ![image](https://user-images.githubusercontent.com/108170869/231940501-3c69cbc5-f843-41fd-b9db-6ca78a7a0e00.png)
 
 
