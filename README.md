@@ -1,5 +1,6 @@
 # Color-Detection-codeclause
 An interactive app to detect the colors on double click.
+![color2](https://user-images.githubusercontent.com/108170869/231940285-e8bc122c-5cce-4deb-b72e-04df6c43e433.jpg)
 
 This is a color detection program that allows users to identify the name and RGB values of any color in an image. The program uses the OpenCV library in Python to read an image and resize it to a desired size. It then reads a CSV file containing color names, hexadecimal codes, and RGB values, and creates a function to calculate the minimum distance between a user-selected color and the colors in the CSV file. The program displays the selected color's name and RGB values in a rectangle on the image. If the selected color is very light, the program displays the text in black color.
 
